@@ -1,0 +1,6 @@
+{
+  "name": "ધોરણ ૮ ફોટો હાજરી પત્રક (Std 8 Photo Attendance)",
+  "description": "ધોરણ ૮ વિદ્યાર્થીઓ માટે સ્માર્ટ ફોટો ક્લિક હાજરી પત્રક, દૈનિક અને માસિક હાજરી રજીસ્ટર, કેમેરા ફોટો અપલોડ અને પ્રિન્ટ રિપોર્ટ સાથે",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
